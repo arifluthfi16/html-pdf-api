@@ -35,16 +35,16 @@
     "pdf-parse": "^1.1.1",
     "puppeteer": "^2.0.0",
     "server-destroy": "^1.0.1",
-    "winston": "^2.3.1"
+    "winston": "^2.3.1",
+    "env-cmd": "^9.0.1",
+    "nodemon": "^1.12.1"
   },
   "devDependencies": {
     "chai": "^4.1.2",
-    "env-cmd": "^9.0.1",
     "eslint": "^4.8.0",
     "eslint-config-airbnb-base": "^12.0.2",
     "eslint-plugin-import": "^2.7.0",
     "mocha": "^4.0.1",
-    "nodemon": "^1.12.1",
     "supertest": "^3.0.0"
   }
 }
